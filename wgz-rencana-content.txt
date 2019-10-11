@@ -6,4 +6,10 @@ RENCANA KONTEN WGZ
     ^ React
 -PHP FRAMEWORK
    ^ laravel
+
+
+-STRUKTUR DATA DASAR
+-PHP FRAMEWORK
+
 -VLOGS
+-Python
