@@ -4,12 +4,13 @@ RENCANA KONTEN WGZ
   * framework JS
     ^ Angular
     ^ React
+    ^ Vue
 -PHP FRAMEWORK
    ^ laravel
 
 
 -STRUKTUR DATA DASAR
--PHP FRAMEWORK
+
 
 -VLOGS
 -Python
