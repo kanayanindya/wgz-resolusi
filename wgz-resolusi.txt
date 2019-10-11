@@ -1,4 +1,5 @@
 wgz - resolusi
 - latihan coding setiap hari
-- belajar public speaking
+
 - belajar machine learning
+- olahraga
